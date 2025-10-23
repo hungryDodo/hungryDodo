@@ -24,23 +24,6 @@ I am actively working on several key areas:
 
 ---
 
-### 🚀 Current Projects
-
-* **Distributed LLM Inference on Edge Clusters:** Developing a multi-tiered network of edge devices (NVIDIA Orin, Jetson Nano, etc.) for optimized, low-latency LLM inference.
-* **Optimizing for AMD Ryzen AI:** Benchmarking and optimizing AI models on the AMD Ryzen AI 9 HX 370 processor, leveraging the full ROCm and NPU software stack.
-* **Privacy-Preserving Smart Home AI Agent:** An ongoing project to build a collaborative AI agent framework with a focus on on-device processing and user data privacy.
-
----
-
-### 🛠️ Technologies & Platforms I Work With
-
-* **Hardware:** NVIDIA Jetson (AGX Orin, Orin NX), AMD Ryzen AI (Minisforum X1), Raspberry Pi
-* **Frameworks:** PyTorch, TensorFlow, JAX, ONNX Runtime
-* **Tools & Platforms:** ROCm, CUDA, TensorRT, TVM, MLIR
-* **Languages:** Python, C++, Bash
-
----
-
 ### 📫 How to Reach Me
 
 * **Email:** `grwnyauATgmail.com`
