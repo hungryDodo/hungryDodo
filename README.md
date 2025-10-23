@@ -21,9 +21,3 @@ I am actively working on several key areas:
 * **🧠 AI for IoT & Intelligent Agents:**
     * Building multi-modal AI agent systems for smart environments (homes/offices).
     * Researching efficient memory systems for agents (e.g., **RAG**), user privacy, and multi-agent collaboration.
-
----
-
-### 📫 How to Reach Me
-
-* **Email:** `grwnyauATgmail.com`
